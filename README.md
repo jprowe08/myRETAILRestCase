@@ -1,16 +1,16 @@
 
 
 #myRETAIL Rest Case Study#
+
+
+Dependencies
 -------------------------
 
-#Dependencies#
--------------------------
+*maven
+*java 8
+*mongoDB server
 
--maven
--java 8
--mongoDB server
-
-#Getting started#
+Getting started
 -------------------------
 
 1. Build the project with maven.
