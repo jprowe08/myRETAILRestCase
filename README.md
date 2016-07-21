@@ -28,7 +28,7 @@ Getting started
 Some things to note
 ------------------------
 
-*The database will only be loaded with pricing data for the following product ids: 15117729, 16483589, 16696652, 16752456, 15643793(this one returns not found in the target API).
+* The database will only be loaded with pricing data for the following product ids: 15117729, 16483589, 16696652, 16752456, 15643793(this one returns not found in the target API).
 
 Example REST Calls
 ------------------------
