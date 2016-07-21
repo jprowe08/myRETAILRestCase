@@ -2,6 +2,7 @@
 
 #myRETAIL Rest Case Study#
 
+The application is currently hosted at http://54.213.53.102:8080
 
 Dependencies
 -------------------------
