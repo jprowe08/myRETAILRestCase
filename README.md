@@ -6,9 +6,9 @@
 Dependencies
 -------------------------
 
-*maven
-*java 8
-*mongoDB server
+* Maven
+* Java 8
+* MongoDB server
 
 Getting started
 -------------------------
