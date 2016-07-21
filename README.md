@@ -14,16 +14,16 @@ Getting started
 -------------------------
 
 1. Build the project with maven.
-  i. Go to the project directory where pom.xml is location
-  ii. Run "mvn install"
+  1. Go to the project directory where pom.xml is location
+  2. Run "mvn install"
 2. Start your MongoDB Server
-  i. Run mongod.exe under the MongoDB installation bin directory
+  1. Run mongod.exe under the MongoDB installation bin directory
 3. Load your server with data
-  i. Connect to your mongo instance through mongo shell
-  ii. Run "use test" to use the database of test
-  iii. Run "load("{projectDirectory}/loadMongoDb.js")" to load the database with data
+  1. Connect to your mongo instance through mongo shell
+  2. Run "use test" to use the database of test
+  3. Run "load("{projectDirectory}/loadMongoDb.js")" to load the database with data
 4. Start the server.
-  i. Inside the project directory run: java -jar target/RESTCase-1.0.0.jar
+  1. Inside the project directory run: java -jar target/RESTCase-1.0.0.jar
 
 Some things to note
 ------------------------
